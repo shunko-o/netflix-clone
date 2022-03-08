@@ -20,8 +20,7 @@ function Nav() {
   return (
     <div className={`nav ${show && "nav__black"}`}>
       <div className='nav__contents'>
-        <img className='nav__logo' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTwjdF7QTdiChuppCaHP69V64osNDstHau-Q&usqp=CAU'/>
-        {/* <img className='nav__logo' src='http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png'/> */}
+        <img className='nav__logo' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/1920px-Netflix_2015_logo.svg.png'/>
 
 
         <img className='nav__avater'
